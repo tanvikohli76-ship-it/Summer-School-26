@@ -16,3 +16,15 @@ Concepts Used: Serial Communication (UART), TX/RX data transfer, Conditional sta
 4. Potentiometer based Level Indicator System:  
 This is a multi-component system where a potentiometer controls LEDs, a buzzer and a servo motor. It simulates a level-based system like a water level indicator.
 Concepts Used: Analog Input, Arrays and loops, Mapping values, Servo control, Sound generation (`tone()`)
+
+5. LED Brightness Control: 
+This project controls the brightness of an LED using a potentiometer. The analog input is converted into a PWM signal to vary the LED intensity.
+Concepts Used: Analog Input (`analogRead`), PWM Output (`analogWrite`), Mapping values (`map()`)
+
+6. Automatic Night Light (LDR):   
+This project uses a Light Dependent Resistor (LDR) to detect ambient light and automatically turn an LED ON or OFF.
+Concepts Used: Sensor input (LDR), Voltage divider, Conditional statements (`if-else`)
+
+7. Temperature Controlled System (TMP36): 
+This project reads temperature using a TMP36 sensor and controls outputs based on the temperature value. It can be used to simulate temperature-based automation systems.
+Concepts Used: Analog Input, Sensor calibration (voltage → temperature), Conditional logic, Real-world data processing
