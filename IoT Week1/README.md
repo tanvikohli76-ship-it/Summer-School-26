@@ -13,4 +13,4 @@ Concepts Used: Digital Output, Random Function, Delay, Serial print
 This program simulates a basic traffic light system using three LEDs (Red, Yellow, and Green). Each LED turns ON and OFF in a sequence, mimicking real-world traffic signals.
 Concepts Used: Digital Output using `digitalWrite()`, Pin configuration using `pinMode()`, Timing control using `delay()`, Sequential logic
 
-TinkerCad Link: https://www.tinkercad.com/things/5nwdzr9Jes1-swanky-trug/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall
+TinkerCad Link: https://www.tinkercad.com/things/5nwdzr9Jes1-traffic-light/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall
