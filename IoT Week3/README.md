@@ -13,6 +13,6 @@ Concepts Used: I2C Communication, LCD interfacing (`LiquidCrystal_I2C`), Display
 This project demonstrates communication between two Arduino boards using UART. One acts as a transmitter (master) and the other as a receiver (slave) to control an LED.
 Concepts Used: Serial Communication (UART), TX/RX data transfer, Conditional statements
 
-4. Smart Level Indicator System:  
-This is a multi-component system where a potentiometer controls LEDs, a buzzer, and a servo motor. It simulates a level-based system like a water level indicator.
+4. Potentiometer based Level Indicator System:  
+This is a multi-component system where a potentiometer controls LEDs, a buzzer and a servo motor. It simulates a level-based system like a water level indicator.
 Concepts Used: Analog Input, Arrays and loops, Mapping values, Servo control, Sound generation (`tone()`)
